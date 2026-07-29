@@ -1,1 +1,10 @@
-
+[
+  {
+    "username_web": "user1",
+    "telegram_username": "usertelegram",
+    "password": "b5bd7b5016e73ca8b7d3c36b463263c4:6c6b8b7c9825af402630a79ed873bedca1a49582ff96790c64238ece603a87583d2354919de999d8a22df0d8af04944e82391974993accc39d97f3d54a3c5d94",
+    "ip_login": null,
+    "status": "ACTIVE",
+    "created_date": "2026-07-29T04:58:24.373Z"
+  }
+]
