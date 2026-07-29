@@ -1,5 +1,11 @@
 [
   {
+    "action": "DELETE_NUMBER",
+    "username": "D4mxAdmin",
+    "details": "db=v3 number=601130544444",
+    "time": "2026-07-29T13:40:24.572Z"
+  },
+  {
     "action": "LOGIN",
     "username": "D4mxAdmin",
     "details": "ip=113.211.112.122",
