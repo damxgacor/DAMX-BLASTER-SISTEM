@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "token": "80e30f9f19a9d7f8348d9d465338c548ccc2a39b75631c314e4fbded33937021",
+    "username": "D4mxAdmin",
+    "role": "ADMIN",
+    "ip": "113.211.112.122",
+    "deviceId": "c41a6d89-0581-4e9e-9f96-3874811e42a7",
+    "createdAt": 1785369162863,
+    "expiresAt": 1785973962863
+  }
+]
