@@ -13,6 +13,8 @@
     "password": "faed286f813f23da0501ffc4625848b2:889a34433fb957b3f485d2580317bc3ceb27ef5972a572e3812e45b2a271ca0246ddae81abd97af7a92da64370d623d54f2c13ac1b770e25b5604bc8a6ae6ee0",
     "ip_login": null,
     "status": "ACTIVE",
-    "created_date": "2026-07-29T13:13:01.567Z"
+    "created_date": "2026-07-29T13:13:01.567Z",
+    "failed_attempts": 0,
+    "locked_until": null
   }
 ]
