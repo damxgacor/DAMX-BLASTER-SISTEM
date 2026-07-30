@@ -1,5 +1,11 @@
 [
   {
+    "action": "DELETE_NUMBER",
+    "username": "D4mxAdmin",
+    "details": "db=v3 number=6011222678887 ref=REF-F475D917",
+    "time": "2026-07-30T11:59:21.074Z"
+  },
+  {
     "action": "UNBAN_USER",
     "username": "D4mxAdmin",
     "details": "target=Testing ref=REF-F9F0083C",
