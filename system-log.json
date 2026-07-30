@@ -1,5 +1,11 @@
 [
   {
+    "action": "LOGIN",
+    "username": "D4mxAdmin",
+    "details": "ip=113.211.118.79",
+    "time": "2026-07-30T11:58:38.288Z"
+  },
+  {
     "action": "BAN_USER",
     "username": "D4mxAdmin",
     "details": "target=Testing ref=REF-D1566472",
