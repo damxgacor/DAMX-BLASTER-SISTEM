@@ -1,5 +1,11 @@
 [
   {
+    "action": "DELETE_NUMBER",
+    "username": "D4mxAdmin",
+    "details": "db=v3 number=601130538675 ref=REF-88232CDE",
+    "time": "2026-07-30T11:46:51.735Z"
+  },
+  {
     "action": "LOGIN",
     "username": "D4mxAdmin",
     "details": "ip=113.211.118.79",
