@@ -1,5 +1,11 @@
 [
   {
+    "action": "DELETE_NUMBER",
+    "username": "Testing",
+    "details": "db=v3 number=601130538678 ref=REF-1C267C58",
+    "time": "2026-07-30T06:57:32.576Z"
+  },
+  {
     "action": "ADD_NUMBER",
     "username": "Testing",
     "details": "db=v3 number=601130538678 ref=REF-872B1666",
