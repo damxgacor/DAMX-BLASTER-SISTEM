@@ -1,5 +1,11 @@
 [
   {
+    "action": "LOGIN",
+    "username": "Testing",
+    "details": "ip=113.211.112.122",
+    "time": "2026-07-30T03:19:59.280Z"
+  },
+  {
     "action": "UNBAN_USER",
     "username": "D4mxAdmin",
     "details": "target=Testing",
