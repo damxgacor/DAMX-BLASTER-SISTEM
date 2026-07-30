@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "token": "088087d700c5ccf4be6392513604ba314946dfb03a2a095ed741830f3da913f6",
+    "username": "Testing",
+    "role": "USER",
+    "ip": "113.211.112.122",
+    "deviceId": "c41a6d89-0581-4e9e-9f96-3874811e42a7",
+    "createdAt": 1785381598571,
+    "expiresAt": 1785986398571
+  }
+]
