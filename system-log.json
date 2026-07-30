@@ -1,5 +1,11 @@
 [
   {
+    "action": "ADD_NUMBER",
+    "username": "Testing",
+    "details": "db=v3 number=601130538676 ref=REF-1B93BD14",
+    "time": "2026-07-30T14:49:36.506Z"
+  },
+  {
     "action": "LOGIN",
     "username": "Testing",
     "details": "ip=113.211.118.79",
